@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-api-internship/static/css/main.e0046860.css",
+    "main.js": "/github-api-internship/static/js/main.2e10c646.js",
+    "index.html": "/github-api-internship/index.html",
+    "main.e0046860.css.map": "/github-api-internship/static/css/main.e0046860.css.map",
+    "main.2e10c646.js.map": "/github-api-internship/static/js/main.2e10c646.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0046860.css",
+    "static/js/main.2e10c646.js"
+  ]
+}
