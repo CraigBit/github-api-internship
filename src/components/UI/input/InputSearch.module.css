@@ -1,0 +1,8 @@
+.searchField {
+  padding: 5px 15px;
+  border: 1px solid darkblue;
+  margin: 15px 0;
+  width: 100%;
+  color: steelblue;
+  font-weight: bold;
+}

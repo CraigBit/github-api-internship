@@ -1,0 +1,9 @@
+.searchButton {
+  padding: 5px 15px;
+  color: darkblue;
+  font-size: 14px;
+  background: transparent;
+  border: 1px solid darkblue;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
